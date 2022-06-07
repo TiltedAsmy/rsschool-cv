@@ -2,6 +2,7 @@
 ## Contact information: 
 telegram - @youngasmy  
 cell# +998909268613
+Discord: Radion Kan (@TiltedAsmy)
 ## Briefly about myself:
 My name is Radion, I would like to become a good proggrammer, in order to create      something new. I don't have any experience in this sphere, but I want to learn,  because it is interesting for me and it has many perspectives.  
 ## Skills:
