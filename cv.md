@@ -6,3 +6,10 @@ cell# +998909268613
 My name is Radion, I would like to become a good proggrammer, in order to create      something new. I don't have any experience in this sphere, but I want to learn,  because it is interesting for me and it has many perspectives.  
 ## Skills:
 Fast learner, Highly motivated.
+## Code example: 
+This code does not execute properly. Try to figure out why.  
+```javascript  
+function multiply(a, b){
+  return a * b
+}
+```  
