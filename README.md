@@ -1,1 +1,1 @@
-# rsschool-cv
+https://TiltedAsmy.github.io/rsschool-cv/cv
