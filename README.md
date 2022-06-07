@@ -1,1 +1,1 @@
-https://TiltedAsmy.github.io/rsschool-cv/cv
+https://TiltedAsmy.github.io/rsschool-cv/
