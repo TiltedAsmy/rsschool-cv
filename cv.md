@@ -13,3 +13,9 @@ function multiply(a, b){
   return a * b
 }
 ```  
+## Work experience:  
+[My rs school CV project](https://github.com/TiltedAsmy/rsschool-cv)
+## Education: 
+MDIST university.
+## English level:
+Advanced.
